@@ -18,7 +18,7 @@ The number at the end of the filename indicates the season.
 
 For example:
 MILP_smallmod_wtfDY_B1_PV1_BR1_HP0_results1.xlsx
-MILP model for Network 1 with batteries, PVs, and boilers considered (no ASHPs) - Case 1b.
+MILP model for Network 1 with batteries, PVs, and boilers considered (no ASHPs), Season 1 results.
 
 
 Files with "bounds" in their name will have the upper and lower bounds from all the iterations.

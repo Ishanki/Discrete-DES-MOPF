@@ -20,7 +20,7 @@ The original IEEE EU LV Test Case can be found here:
 \
 https://cmte.ieee.org/pes-testfeeders/resources/
 \
-All the input files for the modified test case, which is used to test the models, are provided in each folder. 
+All the input files for the modified test case, which is used to test the model, are provided in the "Code" folder. 
 
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Discrete Optimal Designs for Distributed Energy Systems with Nonconvex Multiphase Optimal Power Flow,” Apr. 2022, 

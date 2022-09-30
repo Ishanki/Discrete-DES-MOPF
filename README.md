@@ -25,7 +25,7 @@ All the input files for the modified test case, which is used to test the models
 ## Preprint:
 I. De Mel, O. V. Klymenko, and M. Short, “Discrete Optimal Designs for Distributed Energy Systems with Nonconvex Multiphase Optimal Power Flow,” Apr. 2022, 
 \
-Available: [Insert link#].
+Available: https://arxiv.org/abs/2209.14354.
 
 ## License:
 Copyright (c) 2022, Ishanki De Mel. GPL-3.

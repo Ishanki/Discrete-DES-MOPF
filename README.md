@@ -2,7 +2,7 @@
  Discrete designs for Distributed Energy Systems with Multiphase Optimal Power Flow.
  
 ## Technical Information
-[Add details#]
+Use main.py under "Code" to run the model with the parameters provided. 
 \
 It is advised to run the models with the MILP solver CPLEX and NLP solver CONOPT (these are the defaults). 
 \
